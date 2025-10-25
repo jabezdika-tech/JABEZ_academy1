@@ -1,0 +1,29 @@
+.pushup {
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    font-family: sans-serif;
+}
+
+.categories {
+    height: 200px;
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.div1 {
+    display: flex;
+    height: 200px;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: sans-serif;
+}
